@@ -1,2 +1,2 @@
 # jsbasics
-About DOM manipulations
+About Javascript ❤️❤
